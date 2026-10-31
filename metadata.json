@@ -1,0 +1,6 @@
+{
+  "name": "Nestora Property Co. – Melbourne Property Discovery",
+  "description": "Discover thoughtfully selected Melbourne homes for sale and rent. Explore suburbs, compare properties, and request viewings with Nestora Property Co.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
